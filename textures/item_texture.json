@@ -6,16 +6,16 @@
       "textures": "textures/items/histerite_sword"
     },
     "histerite_helmet": {
-      "textures": "textures/items/histerite_helmet"
+      "textures": "textures/items/armors/histerite_helmet"
     },
     "histerite_chestplate": {
-      "textures": "textures/items/histerite_chestplate"
+      "textures": "textures/items/armors/histerite_chestplate"
     },
     "histerite_leggings": {
-      "textures": "textures/items/histerite_leggings"
+      "textures": "textures/items/armors/histerite_leggings"
     },
     "histerite_boots": {
-      "textures": "textures/items/histerite_boots"
+      "textures": "textures/items/armors/histerite_boots"
     },
     "nocturite_helmet": {
       "textures": "textures/items/nocturite_helmet"
