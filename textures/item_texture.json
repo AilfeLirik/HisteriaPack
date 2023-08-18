@@ -54,13 +54,13 @@
       "textures": "textures/items/seed_planter"
     },
     "sponger": {
-      "textures": "textures/items/sponger"
+      "textures": "textures/items/sticks/sponger"
     },
     "item_pack": {
       "textures": "textures/items/item_pack"
     },
     "tp_stick": {
-      "textures": "textures/items/tpstick"
+      "textures": "textures/items/sticks/tpstick"
     },
     "hang_glider": {
       "textures": "textures/items/hang_glider"
@@ -75,13 +75,13 @@
       "textures": "textures/items/dynamite"
     },
     "jump_stick": {
-      "textures": "textures/items/jump_stick"
+      "textures": "textures/items/sticks/jump_stick"
     },
     "heal_stick": {
-      "textures": "textures/items/heal_stick"
+      "textures": "textures/items/sticks/heal_stick"
     },
     "speed_stick": {
-      "textures": "textures/items/speed_stick"
+      "textures": "textures/items/sticks/speed_stick"
     },
     "drawer_upgrade": {
       "textures": "textures/items/drawer_upgrade"
