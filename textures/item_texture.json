@@ -120,13 +120,13 @@
       "textures": "textures/items/killtag"
     },
     "nocturite_key": {
-      "textures": "textures/items/nocturite_key"
+      "textures": "textures/items/keys/nocturite_key"
     },
     "histerite_key": {
-      "textures": "textures/items/histerite_key"
+      "textures": "textures/items/keys/histerite_key"
     },
     "vote_key": {
-      "textures": "textures/items/vote_key"
+      "textures": "textures/items/keys/vote_key"
     },
     "shuriken": {
       "textures": "textures/items/shuriken"
